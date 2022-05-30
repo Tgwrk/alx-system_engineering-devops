@@ -1,2 +1,2 @@
 #!/bin/bash
-ls /etc/passed | sort | uniq | grep root 
+grep root /etc/passwd

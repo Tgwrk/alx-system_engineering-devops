@@ -1,2 +1,2 @@
 #!/bin/bash
-ls /etc/passed |sort | grep root 
+ls /etc/passed | sort | uniq | grep root 

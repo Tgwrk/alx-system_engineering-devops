@@ -1,0 +1,1 @@
+#!/bin/bashfind . -empty | rev |cut -f '/' -f 1 |rev

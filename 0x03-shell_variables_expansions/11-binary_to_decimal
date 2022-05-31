@@ -1,2 +1,2 @@
 #!/bin/bash
-echo BINARY * 10 | dc 
+echo 0
